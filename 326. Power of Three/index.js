@@ -2,6 +2,7 @@
  * @param {number} n
  * @return {boolean}
  */
+ //递归
 var isPowerOfThree = function(n) {
     if(n === 1){
         return true;
@@ -16,3 +17,8 @@ var isPowerOfThree = function(n) {
         }
     }
 };
+//log函数
+// var isPowerOfThree = function(n) {
+//     var logAns = Math.log(n) / Math.log(3);
+//     return (Math.abs(logAns - Math.round(logAns)) < 10e-15) ? true : false;
+// };
