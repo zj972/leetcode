@@ -27,3 +27,4 @@ My JavaScript Solution of leetcode.
 |326|Power of Three|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/326.%20Power%20of%20Three)|Easy|
 |344|Reverse String|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/344.%20Reverse%20String)|Easy|
 |349|Intersection of Two Arrays|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/349.%20Intersection%20of%20Two%20Arrays)|Easy|
+|350|Intersection of Two Arrays|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/350.%20Intersection%20of%20Two%20Arrays%20II)|Easy|
