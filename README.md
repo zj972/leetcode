@@ -20,6 +20,7 @@ My JavaScript Solution of leetcode.
 |237|Delete Node in a Linked List|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/237.%20Delete%20Node%20in%20a%20Linked%20List)|Easy|
 |242|Valid Anagram|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/242.%20Valid%20Anagram)|Easy|
 |258|Add Digits|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/258.%20Add%20Digits)|Easy|
+|263|Ugly Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/263.%20Ugly%20Number)|Easy|
 |283|Move Zeroes|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/283.%20Move%20Zeroes)|Easy|
 |292|Nim Game|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/292.%20Nim%20Game)|Easy|
 |326|Power of Three|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/326.%20Power%20of%20Three)|Easy|
