@@ -12,6 +12,7 @@ My JavaScript Solution of leetcode.
 |169|Majority Element|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/169.%20Majority%20Element)|Easy|
 |171|Excel Sheet Column Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/171.%20Excel%20Sheet%20Column%20Number)|Easy|
 |191|Number of 1 Bits|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/191.%20Number%20of%201%20Bits)|Easy|
+|202|Happy Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/202.%20Happy%20Number)|Easy|
 |206|Reverse Linked List|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/206.%20Reverse%20Linked%20List)|Easy|
 |217|Contains Duplicate|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/217.%20Contains%20Duplicate)|Easy|
 |226|Invert Binary Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/226.%20Invert%20Binary%20Tree)|Easy|
