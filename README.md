@@ -14,6 +14,7 @@ My JavaScript Solution of leetcode.
 |100|Same Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/100.%20Same%20Tree)|Easy|
 |104|Maximum Depth of Binary Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/104.%20Maximum%20Depth%20of%20Binary%20Tree)|Easy|
 |110|Balanced Binary Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/110.%20Balanced%20Binary%20Tree)|Easy|
+|118|Pascal's Triangle|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/118.%20Pascal's%20Triangle)|Easy|
 |121|Best Time to Buy and Sell Stock|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|Easy|
 |141|Linked List Cycle|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/141.%20Linked%20List%20Cycle)|Easy|
 |169|Majority Element|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/169.%20Majority%20Element)|Easy|
