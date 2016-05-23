@@ -7,6 +7,7 @@ My JavaScript Solution of leetcode.
 |013|Roman to Integer|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/013.%20Roman%20to%20Integer)|Easy|
 |021|Merge Two Sorted Lists|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/021.%20Merge%20Two%20Sorted%20Lists)|Easy|
 |024|Swap Nodes in Pairs|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/024.%20Swap%20Nodes%20in%20Pairs)|Easy|
+|026|Remove Duplicates from Sorted Array|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/026.%20Remove%20Duplicates%20from%20Sorted%20Array)|Easy|
 |027|Remove Element|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/027.%20Remove%20Element)|Easy|
 |066|Plus One|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/066.%20Plus%20One)|Easy|
 |070|Climbing Stairs|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/070.%20Climbing%20Stairs)|Easy|
