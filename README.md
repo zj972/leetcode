@@ -13,6 +13,7 @@ My JavaScript Solution of leetcode.
 |070|Climbing Stairs|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/070.%20Climbing%20Stairs)|Easy|
 |083|Remove Duplicates from Sorted List|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/083.%20Remove%20Duplicates%20from%20Sorted%20List)|Easy|
 |100|Same Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/100.%20Same%20Tree)|Easy|
+|101|Symmetric Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/101.%20Symmetric%20Tree)|Easy|
 |102|Binary Tree Level Order Traversal|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/102.%20Binary%20Tree%20Level%20Order%20Traversal)|Easy|
 |104|Maximum Depth of Binary Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/104.%20Maximum%20Depth%20of%20Binary%20Tree)|Easy|
 |107|Binary Tree Level Order Traversal II|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II)|Easy|
