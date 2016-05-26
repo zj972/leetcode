@@ -20,6 +20,7 @@ My JavaScript Solution of leetcode.
 |104|Maximum Depth of Binary Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/104.%20Maximum%20Depth%20of%20Binary%20Tree)|Easy|
 |107|Binary Tree Level Order Traversal II|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II)|Easy|
 |110|Balanced Binary Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/110.%20Balanced%20Binary%20Tree)|Easy|
+|111|Minimum Depth of Binary Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/111.%20Minimum%20Depth%20of%20Binary%20Tree)|Easy|
 |112|Path Sum|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/112.%20Path%20Sum)|Easy|
 |118|Pascal's Triangle|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/118.%20Pascal's%20Triangle)|Easy|
 |119|119. Pascal's Triangle II|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/119.%20Pascal's%20Triangle%20II)|Easy|
