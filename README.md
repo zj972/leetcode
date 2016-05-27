@@ -36,6 +36,7 @@ My JavaScript Solution of leetcode.
 |217|Contains Duplicate|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/217.%20Contains%20Duplicate)|Easy|
 |226|Invert Binary Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/226.%20Invert%20Binary%20Tree)|Easy|
 |231|Power of Two|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/231.%20Power%20of%20Two)|Easy|
+|232|Implement Queue using Stacks|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/232.%20Implement%20Queue%20using%20Stacks)|Easy|
 |235|Lowest Common Ancestor of a Binary Search Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|Easy|
 |237|Delete Node in a Linked List|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/237.%20Delete%20Node%20in%20a%20Linked%20List)|Easy|
 |242|Valid Anagram|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/242.%20Valid%20Anagram)|Easy|
