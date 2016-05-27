@@ -1,5 +1,5 @@
 # LeetCode
-My JavaScript Solution of leetcode.
+### My JavaScript Solution of leetcode.
 
 
 | No | Title | Source Code | Difficulty |
