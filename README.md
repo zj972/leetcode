@@ -14,6 +14,7 @@ My JavaScript Solution of leetcode.
 |066|Plus One|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/066.%20Plus%20One)|Easy|
 |070|Climbing Stairs|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/070.%20Climbing%20Stairs)|Easy|
 |083|Remove Duplicates from Sorted List|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/083.%20Remove%20Duplicates%20from%20Sorted%20List)|Easy|
+|088|Merge Sorted Array|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/088.%20Merge%20Sorted%20Array)|Easy|
 |100|Same Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/100.%20Same%20Tree)|Easy|
 |101|Symmetric Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/101.%20Symmetric%20Tree)|Easy|
 |102|Binary Tree Level Order Traversal|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/102.%20Binary%20Tree%20Level%20Order%20Traversal)|Easy|
