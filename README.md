@@ -52,6 +52,7 @@
 |235|Lowest Common Ancestor of a Binary Search Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|Easy|
 |237|Delete Node in a Linked List|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/237.%20Delete%20Node%20in%20a%20Linked%20List)|Easy|
 |242|Valid Anagram|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/242.%20Valid%20Anagram)|Easy|
+|257|Binary Tree Paths|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/257.%20Binary%20Tree%20Paths)|Easy|
 |258|Add Digits|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/258.%20Add%20Digits)|Easy|
 |263|Ugly Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/263.%20Ugly%20Number)|Easy|
 |283|Move Zeroes|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/283.%20Move%20Zeroes)|Easy|
