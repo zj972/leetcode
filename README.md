@@ -13,6 +13,7 @@
 |026|Remove Duplicates from Sorted Array|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/026.%20Remove%20Duplicates%20from%20Sorted%20Array)|Easy|
 |027|Remove Element|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/027.%20Remove%20Element)|Easy|
 |036|Valid Sudoku|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/036.%20Valid%20Sudoku)|Easy|
+|038|Count and Say|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/038.%20Count%20and%20Say)|Easy|
 |058|Length of Last Word|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/058.%20Length%20of%20Last%20Word)|Easy|
 |066|Plus One|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/066.%20Plus%20One)|Easy|
 |070|Climbing Stairs|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/070.%20Climbing%20Stairs)|Easy|
