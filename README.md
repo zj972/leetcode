@@ -63,6 +63,7 @@
 |290|Word Pattern|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/290.%20Word%20Pattern)|Easy|
 |292|Nim Game|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/292.%20Nim%20Game)|Easy|
 |299|Bulls and Cows|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/299.%20Bulls%20and%20Cows)|Easy|
+|303|Range Sum Query - Immutable|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/303.%20Range%20Sum%20Query%20-%20Immutable)|Easy|
 |326|Power of Three|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/326.%20Power%20of%20Three)|Easy|
 |342|Power of Four|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/342.%20Power%20of%20Four)|Easy|
 |344|Reverse String|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/344.%20Reverse%20String)|Easy|
