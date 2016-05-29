@@ -13,6 +13,7 @@
 |024|Swap Nodes in Pairs|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/024.%20Swap%20Nodes%20in%20Pairs)|Easy|
 |026|Remove Duplicates from Sorted Array|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/026.%20Remove%20Duplicates%20from%20Sorted%20Array)|Easy|
 |027|Remove Element|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/027.%20Remove%20Element)|Easy|
+|028|Implement strStr()|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/028.%20Implement%20strStr())|Easy|
 |036|Valid Sudoku|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/036.%20Valid%20Sudoku)|Easy|
 |038|Count and Say|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/038.%20Count%20and%20Say)|Easy|
 |058|Length of Last Word|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/058.%20Length%20of%20Last%20Word)|Easy|
