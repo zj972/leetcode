@@ -17,6 +17,7 @@
 |038|Count and Say|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/038.%20Count%20and%20Say)|Easy|
 |058|Length of Last Word|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/058.%20Length%20of%20Last%20Word)|Easy|
 |066|Plus One|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/066.%20Plus%20One)|Easy|
+|067|Add Binary|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/067.%20Add%20Binary)|Easy|
 |070|Climbing Stairs|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/070.%20Climbing%20Stairs)|Easy|
 |083|Remove Duplicates from Sorted List|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/083.%20Remove%20Duplicates%20from%20Sorted%20List)|Easy|
 |088|Merge Sorted Array|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/088.%20Merge%20Sorted%20Array)|Easy|
