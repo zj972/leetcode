@@ -4,6 +4,7 @@
 
 | No | Title | Source Code | Difficulty |
 |----| ----- | -------- | ---------- |
+|001|Two Sum|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/001.%20Two%20Sum)|Easy|
 |006|ZigZag Conversion|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/006.%20ZigZag%20Conversion)|Easy|
 |009|Palindrome Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/009.%20Palindrome%20Number)|Easy|
 |013|Roman to Integer|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/013.%20Roman%20to%20Integer)|Easy|
