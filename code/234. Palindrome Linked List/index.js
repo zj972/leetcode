@@ -20,3 +20,32 @@ var isPalindrome = function(head) {
     }
     return true;
 };
+// 反转后一半链表对比
+// var isPalindrome = function(head) {
+//     if (head === null) {  
+//         return true;  
+//     }  
+//     var slow = head;  
+//     var fast = slow.next;  
+//     while (fast !== null && fast.next !== null && fast.next.next !== null){  
+//         slow = slow.next;  
+//         fast = fast.next.next;  
+//     }  
+//     var p = slow.next;  
+//     var q;  
+//     var end = null;  
+//     while (p !== null) {  
+//         q = p.next;  
+//         p.next = end;  
+//         end = p;  
+//         p = q;  
+//     }  
+//     while (head !== null && end !== null) {  
+//         if (head.val != end.val) {  
+//             return false;  
+//         }  
+//         head = head.next;  
+//         end = end.next;  
+//     }  
+//     return true;  
+// };
