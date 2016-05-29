@@ -6,6 +6,7 @@
 |----| ----- | -------- | ---------- |
 |001|Two Sum|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/001.%20Two%20Sum)|Easy|
 |006|ZigZag Conversion|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/006.%20ZigZag%20Conversion)|Easy|
+|007|Reverse Integer|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/007.%20Reverse%20Integer)|Easy|
 |009|Palindrome Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/009.%20Palindrome%20Number)|Easy|
 |013|Roman to Integer|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/013.%20Roman%20to%20Integer)|Easy|
 |014|Longest Common Prefix|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/014.%20Longest%20Common%20Prefix)|Easy|
