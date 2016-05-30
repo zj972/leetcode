@@ -64,6 +64,7 @@
 |257|Binary Tree Paths|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/257.%20Binary%20Tree%20Paths)|Easy|
 |258|Add Digits|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/258.%20Add%20Digits)|Easy|
 |263|Ugly Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/263.%20Ugly%20Number)|Easy|
+|278|First Bad Version|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/278.%20First%20Bad%20Version)|Easy|
 |283|Move Zeroes|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/283.%20Move%20Zeroes)|Easy|
 |290|Word Pattern|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/290.%20Word%20Pattern)|Easy|
 |292|Nim Game|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/292.%20Nim%20Game)|Easy|
