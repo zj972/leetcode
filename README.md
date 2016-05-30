@@ -69,6 +69,7 @@
 |242|Valid Anagram|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/242.%20Valid%20Anagram)|Easy|
 |257|Binary Tree Paths|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/257.%20Binary%20Tree%20Paths)|Easy|
 |258|Add Digits|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/258.%20Add%20Digits)|Easy|
+|260|Single Number III|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/260.%20Single%20Number%20III)|Medium|
 |263|Ugly Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/263.%20Ugly%20Number)|Easy|
 |278|First Bad Version|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/278.%20First%20Bad%20Version)|Easy|
 |283|Move Zeroes|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/283.%20Move%20Zeroes)|Easy|
