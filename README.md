@@ -38,6 +38,7 @@
 |121|Best Time to Buy and Sell Stock|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|Easy|
 |125|Valid Palindrome|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/125.%20Valid%20Palindrome)|Easy|
 |141|Linked List Cycle|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/141.%20Linked%20List%20Cycle)|Easy|
+|155|Min Stack|[Java](https://github.com/zj972/leetcode/tree/master/code/155.%20Min%20Stack)|Easy|
 |160|Intersection of Two Linked Lists|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/160.%20Intersection%20of%20Two%20Linked%20Lists)|Easy|
 |169|Majority Element|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/169.%20Majority%20Element)|Easy|
 |171|Excel Sheet Column Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/171.%20Excel%20Sheet%20Column%20Number)|Easy|
