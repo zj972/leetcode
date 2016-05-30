@@ -46,6 +46,7 @@
 |171|Excel Sheet Column Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/171.%20Excel%20Sheet%20Column%20Number)|Easy|
 |172|Factorial Trailing Zeroes|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/172.%20Factorial%20Trailing%20Zeroes)|Easy|
 |190|Reverse Bits|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/190.%20Reverse%20Bits)|Easy|
+|189|Rotate Array|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/189.%20Rotate%20Array)|Easy|
 |191|Number of 1 Bits|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/191.%20Number%20of%201%20Bits)|Easy|
 |198|House Robber|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/198.%20House%20Robber)|Easy|
 |202|Happy Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/202.%20Happy%20Number)|Easy|
