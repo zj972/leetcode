@@ -40,6 +40,7 @@
 |141|Linked List Cycle|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/141.%20Linked%20List%20Cycle)|Easy|
 |155|Min Stack|[Java](https://github.com/zj972/leetcode/tree/master/code/155.%20Min%20Stack)|Easy|
 |160|Intersection of Two Linked Lists|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/160.%20Intersection%20of%20Two%20Linked%20Lists)|Easy|
+|168|Excel Sheet Column Title|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/168.%20Excel%20Sheet%20Column%20Title)|Easy|
 |169|Majority Element|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/169.%20Majority%20Element)|Easy|
 |171|Excel Sheet Column Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/171.%20Excel%20Sheet%20Column%20Number)|Easy|
 |172|Factorial Trailing Zeroes|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/172.%20Factorial%20Trailing%20Zeroes)|Easy|
