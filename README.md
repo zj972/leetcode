@@ -38,6 +38,7 @@
 |119|119. Pascal's Triangle II|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/119.%20Pascal's%20Triangle%20II)|Easy|
 |121|Best Time to Buy and Sell Stock|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|Easy|
 |125|Valid Palindrome|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/125.%20Valid%20Palindrome)|Easy|
+|136|Single Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/136.%20Single%20Number)|Medium|
 |141|Linked List Cycle|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/141.%20Linked%20List%20Cycle)|Easy|
 |155|Min Stack|[Java](https://github.com/zj972/leetcode/tree/master/code/155.%20Min%20Stack)|Easy|
 |160|Intersection of Two Linked Lists|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/160.%20Intersection%20of%20Two%20Linked%20Lists)|Easy|
@@ -76,7 +77,7 @@
 |299|Bulls and Cows|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/299.%20Bulls%20and%20Cows)|Easy|
 |303|Range Sum Query - Immutable|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/303.%20Range%20Sum%20Query%20-%20Immutable)|Easy|
 |326|Power of Three|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/326.%20Power%20of%20Three)|Easy|
-|338|Counting Bits|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/338.%20Counting%20Bits)|Easy|
+|338|Counting Bits|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/338.%20Counting%20Bits)|Medium|
 |342|Power of Four|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/342.%20Power%20of%20Four)|Easy|
 |344|Reverse String|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/344.%20Reverse%20String)|Easy|
 |345|Reverse Vowels of a String|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/345.%20Reverse%20Vowels%20of%20a%20String)|Easy|
