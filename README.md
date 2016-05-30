@@ -37,6 +37,7 @@
 |118|Pascal's Triangle|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/118.%20Pascal's%20Triangle)|Easy|
 |119|119. Pascal's Triangle II|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/119.%20Pascal's%20Triangle%20II)|Easy|
 |121|Best Time to Buy and Sell Stock|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|Easy|
+|122|Best Time to Buy and Sell Stock II|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)|Easy|
 |125|Valid Palindrome|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/125.%20Valid%20Palindrome)|Easy|
 |136|Single Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/136.%20Single%20Number)|Medium|
 |141|Linked List Cycle|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/141.%20Linked%20List%20Cycle)|Easy|
