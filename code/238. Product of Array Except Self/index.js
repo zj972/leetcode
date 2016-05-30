@@ -3,10 +3,11 @@
  * @return {number[]}
  */
 var productExceptSelf = function(nums) {
-    if(nums.length < 3) return nums.reverse();
+    var n = nums.length;
+    if(n < 3) return nums.reverse();
     var p = [1], q = [];
-    q[nums.length-1] = 1;
-    for(var i = 1, n = nums.length; i < n; i++){
+    q[n-1] = 1;
+    for(var i = 1; i < n; i++){
         p[i] = p[i-1] * nums[i-1];
         q[n-i-1] = q[n-i] * nums[n-i];
     }
