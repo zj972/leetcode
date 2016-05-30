@@ -3,7 +3,7 @@ Given an array of numbers `nums`, in which exactly two elements appear only once
 
 For example:
 
-Given `nums = [1, 2, 1, 3, 2, 5]`, return [3, 5]`.
+Given `nums = [1, 2, 1, 3, 2, 5]`, return `[3, 5]`.
 
 ##### Note:
 
