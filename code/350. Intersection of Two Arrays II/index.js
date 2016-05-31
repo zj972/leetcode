@@ -3,6 +3,7 @@
  * @param {number[]} nums2
  * @return {number[]}
  */
+//Distribution 24.86%,runtime 136ms
 var intersect = function(nums1, nums2) {
     var sam = [];
     var b = 0;

@@ -3,6 +3,7 @@
  * @param {number} k
  * @return {number[]}
  */
+//Distribution 44.96%,runtime 168ms
 var topKFrequent = function(nums, k) {
     var map = {};
     for(var i = 0, n = nums.length; i < n; i++){

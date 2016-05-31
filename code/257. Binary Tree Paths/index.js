@@ -9,6 +9,7 @@
  * @param {TreeNode} root
  * @return {string[]}
  */
+//Distribution 67.90%,runtime 132ms
 var binaryTreePaths = function(root) {
     function searchBT(root, path, answer) {
         if (root.left === null && root.right === null) answer.push(path + root.val);

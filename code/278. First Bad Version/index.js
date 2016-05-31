@@ -12,6 +12,7 @@
  * @param {function} isBadVersion()
  * @return {function}
  */
+//Distribution 83.15%,runtime 88ms
 var solution = function(isBadVersion) {
     /**
      * @param {integer} n Total versions

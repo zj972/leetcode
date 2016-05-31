@@ -3,6 +3,7 @@
  * @return {boolean}
  */
  //递归
+//Distribution 26.01%,runtime 1252ms
 var isPowerOfThree = function(n) {
     if(n === 1){
         return true;
@@ -18,7 +19,8 @@ var isPowerOfThree = function(n) {
     }
 };
 //log函数
-// var isPowerOfThree = function(n) {
-//     var logAns = Math.log(n) / Math.log(3);
-//     return (Math.abs(logAns - Math.round(logAns)) < 10e-15) ? true : false;
-// };
+//Distribution 23.77%,runtime 1260ms
+var isPowerOfThree = function(n) {
+    var logAns = Math.log(n) / Math.log(3);
+    return (Math.abs(logAns - Math.round(logAns)) < 10e-15) ? true : false;
+};

@@ -2,7 +2,7 @@
  * @param {number[]} nums
  * @return {number[]}
  */
-//runtime 69.23% 116ms
+//Distribution 69.23%,runtime 116ms
 var singleNumber = function(nums) {  
     var res = [0,0];  
     var result = nums[0];  
@@ -19,18 +19,18 @@ var singleNumber = function(nums) {
     }  
     return res;  
 };
-//runtime 34.07% 152ms
-// var singleNumber = function(nums) {
-//     var list = {};
-//     for(var i = 0, n = nums.length; i < n; i++){
-//         if(list[nums[i]] === undefined){
-//             list[nums[i]] = i;
-//         }else{
-//             delete list[nums[i]];
-//         }
-//     }
-//     var num = [];
-//     for(var x in list) num.push(parseInt(x));
-//     if(list[num[0]] < list[num[1]]) return num;
-//     else return num.reverse();
-// };
+//Distribution 34.07%,runtime 152ms
+var singleNumber = function(nums) {
+    var list = {};
+    for(var i = 0, n = nums.length; i < n; i++){
+        if(list[nums[i]] === undefined){
+            list[nums[i]] = i;
+        }else{
+            delete list[nums[i]];
+        }
+    }
+    var num = [];
+    for(var x in list) num.push(parseInt(x));
+    if(list[num[0]] < list[num[1]]) return num;
+    else return num.reverse();
+};

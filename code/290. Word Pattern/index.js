@@ -3,6 +3,7 @@
  * @param {string} str
  * @return {boolean}
  */
+//Distribution 55.75%,runtime 97ms
 var wordPattern = function(pattern, str) {
     var list1 = {};
     str = str.split(" ");

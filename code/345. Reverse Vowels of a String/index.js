@@ -2,6 +2,7 @@
  * @param {string} s
  * @return {string}
  */
+//Distribution 92.56%,runtime 152ms
 var reverseVowels = function(s) {
     s = s.split("");
     var x = 0;
