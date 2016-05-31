@@ -1,3 +1,4 @@
+//Distribution 46.77%,runtime 96ms
 /**
  * @constructor
  */

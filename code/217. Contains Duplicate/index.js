@@ -2,6 +2,7 @@
  * @param {number[]} nums
  * @return {boolean}
  */
+//Distribution 54.95%,runtime 120ms
 var containsDuplicate = function(nums) {
     if(nums === null) return false;
     nums.sort(function(a,b){ return a-b });

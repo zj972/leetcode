@@ -2,6 +2,7 @@
  * @param {number} n
  * @return {boolean}
  */
+//Distribution 37.31%,runtime 148ms
 var isHappy = function(n) {
     var list = [];
     list.push(n);

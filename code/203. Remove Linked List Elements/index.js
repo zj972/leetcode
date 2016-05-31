@@ -10,6 +10,7 @@
  * @param {number} val
  * @return {ListNode}
  */
+//Distribution 60.94%,runtime 156ms
 var removeElements = function(head, val) {
     while(head){
         if(head.val === val)

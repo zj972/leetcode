@@ -3,6 +3,7 @@
  * @param {string} t
  * @return {boolean}
  */
+//Distribution 40.26%,runtime 119ms
 var isIsomorphic = function(s, t) {
     var list1 = {};
     for(var i = 0, n = s.length; i < n; i++){

@@ -2,6 +2,7 @@
  * @param {number} n
  * @return {boolean}
  */
+//Distribution 11.98%,runtime 192ms
 var isPowerOfTwo = function(n) {
     if(n === 1){
         return true;
@@ -17,7 +18,8 @@ var isPowerOfTwo = function(n) {
     }
 };
 //log函数
-// var isPowerOfThree = function(n) {
-//     var logAns = Math.log(n) / Math.log(2);
-//     return (Math.abs(logAns - Math.round(logAns)) < 10e-15) ? true : false;
-// };
+//Distribution 11.98%,runtime 192ms
+var isPowerOfThree = function(n) {
+    var logAns = Math.log(n) / Math.log(2);
+    return (Math.abs(logAns - Math.round(logAns)) < 10e-15) ? true : false;
+};

@@ -2,6 +2,7 @@
  * @param {number[]} nums
  * @return {number[]}
  */
+//Distribution 55.84%,runtime 200ms
 var productExceptSelf = function(nums) {
     var n = nums.length;
     if(n < 3) return nums.reverse();

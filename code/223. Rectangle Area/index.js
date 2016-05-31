@@ -9,6 +9,7 @@
  * @param {number} H
  * @return {number}
  */
+//Distribution 23.40%,runtime 336ms
 var computeArea = function(A, B, C, D, E, F, G, H) {
     var val = (C-A)*(D-B) + (G-E)*(H-F);
     if (E > C || G < A || F > D || H < B) {

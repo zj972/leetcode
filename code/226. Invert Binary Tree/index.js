@@ -9,6 +9,7 @@
  * @param {TreeNode} root
  * @return {TreeNode}
  */
+//Distribution 52.68%,runtime 112ms
 var invertTree = function(root) {
     if(root == null) return [];
     var ec;
