@@ -4,7 +4,7 @@
 
 | No | Title | Source Code | Difficulty | Distribution | Runtime |
 |----| ----- | -------- | ---------- | ---------- | ---------- |
-|001|Two Sum|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/001.%20Two%20Sum)|Easy|
+|001|Two Sum|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/001.%20Two%20Sum)|Easy|54.90%,51.13%|136ms,176ms|
 |006|ZigZag Conversion|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/006.%20ZigZag%20Conversion)|Easy|
 |007|Reverse Integer|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/007.%20Reverse%20Integer)|Easy|
 |008|String to Integer (atoi)|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/008.%20String%20to%20Integer%20(atoi))|Easy|
