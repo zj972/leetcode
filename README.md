@@ -84,5 +84,6 @@
 |342|Power of Four|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/342.%20Power%20of%20Four)|Easy|
 |344|Reverse String|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/344.%20Reverse%20String)|Easy|
 |345|Reverse Vowels of a String|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/345.%20Reverse%20Vowels%20of%20a%20String)|Easy|
+|347|Top K Frequent Elements|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/347.%20Top%20K%20Frequent%20Elements)|Medium|
 |349|Intersection of Two Arrays|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/349.%20Intersection%20of%20Two%20Arrays)|Easy|
 |350|Intersection of Two Arrays II|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/350.%20Intersection%20of%20Two%20Arrays%20II)|Easy|
