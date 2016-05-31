@@ -83,6 +83,7 @@
 |326|Power of Three|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/326.%20Power%20of%20Three)|Easy|26.01%,23.77%|1252ms,1260ms|
 |338|Counting Bits|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/338.%20Counting%20Bits)|Medium|86.11%,61.81%|284ms,300ms|
 |342|Power of Four|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/342.%20Power%20of%20Four)|Easy|2.65%|212ms|
+|343|Integer Break|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/343.%20Integer%20Break)|Medium|22.92%|108ms|
 |344|Reverse String|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/344.%20Reverse%20String)|Easy|54.36%|156ms|
 |345|Reverse Vowels of a String|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/345.%20Reverse%20Vowels%20of%20a%20String)|Easy|92.56%|152ms|
 |347|Top K Frequent Elements|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/347.%20Top%20K%20Frequent%20Elements)|Medium|44.96%|168ms|
