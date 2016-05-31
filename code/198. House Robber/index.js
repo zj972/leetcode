@@ -2,6 +2,7 @@
  * @param {number[]} nums
  * @return {number}
  */
+//Distribution 71.79%,runtime 96ms
 var rob = function(nums) {
     if (nums === null || nums.length === 0) {
         return 0;
