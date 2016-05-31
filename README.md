@@ -2,8 +2,8 @@
 ### My JavaScript Solution of leetcode.
 
 
-| No | Title | Source Code | Difficulty |
-|----| ----- | -------- | ---------- |
+| No | Title | Source Code | Difficulty | Distribution | Runtime |
+|----| ----- | -------- | ---------- | ---------- | ---------- |
 |001|Two Sum|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/001.%20Two%20Sum)|Easy|
 |006|ZigZag Conversion|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/006.%20ZigZag%20Conversion)|Easy|
 |007|Reverse Integer|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/007.%20Reverse%20Integer)|Easy|
