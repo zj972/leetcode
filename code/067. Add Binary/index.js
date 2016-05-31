@@ -3,6 +3,7 @@
  * @param {string} b
  * @return {string}
  */
+//Distribution 75.79%,runtime 128ms
 var addBinary = function(a, b) {
     if(a.length > b.length){
         var temp = a;

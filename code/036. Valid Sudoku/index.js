@@ -2,6 +2,7 @@
  * @param {character[][]} board
  * @return {boolean}
  */
+//Distribution 58.11%,runtime 172ms
 var isValidSudoku = function(board) {
     for(var i = 0; i < 9; i++){
         var col = [];

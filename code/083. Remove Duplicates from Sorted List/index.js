@@ -9,6 +9,7 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
+//Distribution 86.03%,runtime 136ms
 var deleteDuplicates = function(head) {
     if(!head || !head.next) return head;
     var n = head;

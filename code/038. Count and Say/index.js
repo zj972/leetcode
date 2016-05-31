@@ -2,6 +2,7 @@
  * @param {number} n
  * @return {string}
  */
+//Distribution 60.27%,runtime 96ms
 var countAndSay = function(n) {
     var list = "1";
     var node = "";

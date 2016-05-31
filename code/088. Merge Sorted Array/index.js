@@ -5,6 +5,7 @@
  * @param {number} n
  * @return {void} Do not return anything, modify nums1 in-place instead.
  */
+//Distribution 86.67%,runtime 100ms
 var merge = function(nums1, m, nums2, n) {
     var i = m - 1;
     var j = n - 1;

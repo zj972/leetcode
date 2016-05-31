@@ -2,6 +2,7 @@
  * @param {number[]} digits
  * @return {number[]}
  */
+//Distribution 29.03%,runtime 120ms
 var plusOne = function(digits) {
     if(!digits.length) return [1];
     var num = 1;
