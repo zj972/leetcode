@@ -2,6 +2,7 @@
  * @param {number} x
  * @return {number}
  */
+//Distribution 4.96%,runtime 208ms
 var reverse = function(x) {
     var max = Math.floor(2147483647/10), result = 0;
     var sign = x > 0 ? 1 : -1;
