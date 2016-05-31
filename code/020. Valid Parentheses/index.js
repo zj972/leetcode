@@ -2,6 +2,7 @@
  * @param {string} s
  * @return {boolean}
  */
+//Distribution 71.83%,runtime 96ms
 var isValid = function(s) {
     var list = [];
     for(var i = 0, n = s.length; i < n; i++){

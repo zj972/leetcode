@@ -10,6 +10,7 @@
  * @param {number} n
  * @return {ListNode}
  */
+//Distribution 16.49%,runtime 148ms
 var removeNthFromEnd = function(head, n) {
     var last = head;
     var p = head;

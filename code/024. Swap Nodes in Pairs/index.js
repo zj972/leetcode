@@ -9,6 +9,7 @@
  * @param {ListNode} head
  * @return {ListNode}
  */
+//Distribution 51.89%,runtime 104ms
 var swapPairs = function(head) {
     if(!head) return head;
     var newList = head;

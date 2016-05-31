@@ -2,6 +2,7 @@
  * @param {string} s
  * @return {number}
  */
+//Distribution 34.07%,runtime 364ms
 var romanToInt = function(s) {
     var x = 0;
     for(var i = 0, num = [], n = s.length; i < n; i++){

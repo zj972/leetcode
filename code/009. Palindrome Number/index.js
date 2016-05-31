@@ -2,6 +2,7 @@
  * @param {number} x
  * @return {boolean}
  */
+//Distribution 50.00%,runtime 756ms
 var isPalindrome = function(x) {
     if(x < 0) return false;
     else if(x === 0) return true;

@@ -2,6 +2,7 @@
  * @param {string[]} strs
  * @return {string}
  */
+//Distribution 55.79%,runtime 108ms
 var longestCommonPrefix = function(strs) {
     if(!strs.length) return "";
     var str = strs[0];
