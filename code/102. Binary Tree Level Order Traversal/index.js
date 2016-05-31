@@ -9,6 +9,7 @@
  * @param {TreeNode} root
  * @return {number[][]}
  */
+//Distribution 50.51%,runtime 120ms
 var levelOrder = function(root) {
     var num = 0;
     var rootArray = [];

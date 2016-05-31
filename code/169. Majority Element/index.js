@@ -2,6 +2,7 @@
  * @param {number[]} nums
  * @return {number}
  */
+//Distribution 43.80%,runtime 114ms
 var majorityElement = function(nums) {
     if(nums.length < 3) return nums[0];
     nums = nums.sort(function(a,b){ return a-b; });

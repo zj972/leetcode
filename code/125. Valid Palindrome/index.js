@@ -2,6 +2,7 @@
  * @param {string} s
  * @return {boolean}
  */
+//Distribution 57.02%,runtime 156ms
 var isPalindrome = function(s) {
     s = s.toLowerCase().split("");
     var m = s.length -1;

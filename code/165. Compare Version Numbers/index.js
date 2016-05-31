@@ -3,6 +3,7 @@
  * @param {string} version2
  * @return {number}
  */
+//Distribution 52.11%,runtime 104ms
 var compareVersion = function(version1, version2) {
     version1 = version1.split(".");
     version2 = version2.split(".");

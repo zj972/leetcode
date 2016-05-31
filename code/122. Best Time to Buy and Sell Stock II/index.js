@@ -2,7 +2,7 @@
  * @param {number[]} prices
  * @return {number}
  */
-//runtime 26.67% 132ms
+//Distribution 26.67%,runtime 132ms
 var maxProfit = function(prices) {
     var n = prices.length;
     var max = prices[0];
@@ -20,12 +20,12 @@ var maxProfit = function(prices) {
     if(max !== min) return (money + max - min);
     return money;
 };
-//runtime 11.67% 148ms
-// var maxProfit = function(prices) {
-//     var n = prices.length;
-//     var money = 0;
-//     for(var i = 0; i < n; i++){
-//         if (prices[i+1]>prices[i]) money += prices[i+1]-prices[i];
-//     }
-//     return money;
-// };
+//Distribution 11.67%,runtime 148ms
+var maxProfit = function(prices) {
+    var n = prices.length;
+    var money = 0;
+    for(var i = 0; i < n; i++){
+        if (prices[i+1]>prices[i]) money += prices[i+1]-prices[i];
+    }
+    return money;
+};

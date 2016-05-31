@@ -10,6 +10,7 @@
  * @param {ListNode} head
  * @return {boolean}
  */
+//Distribution 16.67%,runtime 124ms
 var hasCycle = function(head) {
     if(!head || !head.next) return false;
     var n = head, m = head;

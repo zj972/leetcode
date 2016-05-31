@@ -2,6 +2,7 @@
  * @param {number[]} prices
  * @return {number}
  */
+//Distribution 14.19%,runtime 140ms
 var maxProfit = function(prices) {
     var n = prices.length;
     var min = Number.MAX_VALUE;

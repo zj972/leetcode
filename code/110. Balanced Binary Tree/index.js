@@ -9,6 +9,7 @@
  * @param {TreeNode} root
  * @return {boolean}
  */
+//Distribution 55.34%,runtime 152ms
 var isBalanced = function(root) {
     if(root === null) return true;
     function depth(root){

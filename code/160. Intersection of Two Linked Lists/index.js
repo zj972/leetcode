@@ -11,6 +11,7 @@
  * @param {ListNode} headB
  * @return {ListNode}
  */
+//Distribution 58.33%,runtime 152ms
 var getIntersectionNode = function(headA, headB) { 
         if(headA === null || headB === null) return null;  
         var p = headA;  

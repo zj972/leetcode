@@ -10,6 +10,7 @@
  * @param {number} sum
  * @return {boolean}
  */
+//Distribution 1.71%,runtime 164ms
 var hasPathSum = function(root, sum) {
     if (root === null)
         return false;

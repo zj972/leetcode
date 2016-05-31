@@ -10,6 +10,7 @@
  * @param {TreeNode} q
  * @return {boolean}
  */
+//Distribution 35.38%,runtime 108ms
 var isSameTree = function(p, q) {
     if(p === null && q === null) return true;
     if(p === null || q === null) return false;

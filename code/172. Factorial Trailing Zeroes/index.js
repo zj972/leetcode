@@ -2,6 +2,7 @@
  * @param {number} n
  * @return {number}
  */
+//Distribution 96.83%,runtime 128ms
 var trailingZeroes = function(n) {
     if(n < 5) return 0;
     n = parseInt(n/5);

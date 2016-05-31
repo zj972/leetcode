@@ -9,6 +9,7 @@
  * @param {TreeNode} root
  * @return {number}
  */
+//Distribution 53.75%,runtime 116ms
 var maxDepth = function(root) {
     if(root == null){
         return 0;

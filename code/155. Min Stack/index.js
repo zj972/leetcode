@@ -1,3 +1,4 @@
+//Distribution 56.20%,runtime 122ms
 public class MinStack {
     long min;
     Stack<Long> stack;

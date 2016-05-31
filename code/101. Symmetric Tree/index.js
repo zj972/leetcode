@@ -9,6 +9,7 @@
  * @param {TreeNode} root
  * @return {boolean}
  */
+//Distribution 47.13%,runtime 132ms
 var isSymmetric = function(root) {
     if(!root) return true;
     var num = 1;
@@ -48,13 +49,14 @@ var isSymmetric = function(root) {
     }
     return true;
 };
-// var isSymmetric = function(root) {
-//     function isSymmetricHelp(left,right){
-//         if(left === null || right === null)
-//             return left === right;
-//         if(left.val !== right.val)
-//             return false;
-//         return isSymmetricHelp(left.left, right.right) && isSymmetricHelp(left.right, right.left);
-//     }
-//     return root === null || isSymmetricHelp(root.left, root.right);
-// };
+//Distribution 16.09%,runtime 144ms
+var isSymmetric = function(root) {
+    function isSymmetricHelp(left,right){
+        if(left === null || right === null)
+            return left === right;
+        if(left.val !== right.val)
+            return false;
+        return isSymmetricHelp(left.left, right.right) && isSymmetricHelp(left.right, right.left);
+    }
+    return root === null || isSymmetricHelp(root.left, root.right);
+};

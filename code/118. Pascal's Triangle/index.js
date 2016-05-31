@@ -2,6 +2,7 @@
  * @param {number} numRows
  * @return {number[][]}
  */
+//Distribution 38.46%,runtime 104ms
 var generate = function(numRows) {
     if(!numRows) return [];
     var numArray = [[1]];
