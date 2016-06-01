@@ -73,6 +73,7 @@
 |258|Add Digits|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/258.%20Add%20Digits)|Easy|37.87%|184ms|
 |260|Single Number III|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/260.%20Single%20Number%20III)|Medium|69.23%,34.07%|116ms,152ms|
 |263|Ugly Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/263.%20Ugly%20Number)|Easy|79.82%,16.67%|160ms,180ms|
+|268|Missing Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/268.%20Missing%20Number)|Medium|55.26%,23.68%|125ms,140ms|
 |278|First Bad Version|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/278.%20First%20Bad%20Version)|Easy|83.15%|88ms|
 |283|Move Zeroes|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/283.%20Move%20Zeroes)|Easy|87.50%|116ms|
 |290|Word Pattern|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/290.%20Word%20Pattern)|Easy|55.75%|97ms|
