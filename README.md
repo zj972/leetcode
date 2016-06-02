@@ -41,7 +41,7 @@
 |125|Valid Palindrome|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/125.%20Valid%20Palindrome)|Easy|57.02%|156ms|
 |136|Single Number|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/136.%20Single%20Number)|Medium|63.74%,41.52%|104ms,116ms|
 |141|Linked List Cycle|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/141.%20Linked%20List%20Cycle)|Easy|16.67%|124ms|
-|144|Binary Tree Preorder Traversal|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/144.%20Binary%20Tree%20Preorder%20Traversal)|Medium|82.14%|108ms|
+|144|Binary Tree Preorder Traversal|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/144.%20Binary%20Tree%20Preorder%20Traversal)|Medium|82.14%,47.62%|108ms,119ms|
 |155|Min Stack|[Java](https://github.com/zj972/leetcode/tree/master/code/155.%20Min%20Stack)|Easy|56.20%|122ms|
 |160|Intersection of Two Linked Lists|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/160.%20Intersection%20of%20Two%20Linked%20Lists)|Easy|58.33%|152ms|
 |165|Compare Version Numbers|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/165.%20Compare%20Version%20Numbers)|Easy|52.11%|104ms|
