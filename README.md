@@ -83,6 +83,7 @@
 |292|Nim Game|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/292.%20Nim%20Game)|Easy|36.94%|100ms|
 |299|Bulls and Cows|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/299.%20Bulls%20and%20Cows)|Easy|67.53%,2.60%|152ms,304ms|
 |303|Range Sum Query - Immutable|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/303.%20Range%20Sum%20Query%20-%20Immutable)|Easy|91.57%|116ms|
+|318|Maximum Product of Word Lengths|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/318.%20Maximum%20Product%20of%20Word%20Lengths)|Medium|39.13%|276ms|
 |319|Bulb Switcher|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/319.%20Bulb%20Switcher)|Medium|23.91%|105ms|
 |326|Power of Three|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/326.%20Power%20of%20Three)|Easy|26.01%,23.77%|1252ms,1260ms|
 |338|Counting Bits|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/338.%20Counting%20Bits)|Medium|86.11%,61.81%|284ms,300ms|
