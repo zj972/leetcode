@@ -2,7 +2,6 @@
  * @param {number} num
  * @return {number[]}
  */
-//runtime  
 //Distribution 86.11%,runtime 284ms
 var countBits = function(num) {
     var res = [0];
@@ -11,7 +10,6 @@ var countBits = function(num) {
     }
     return res;
 };
-//runtime  
 //Distribution 61.81%,runtime 300ms
 var countBits = function(num) {
     var res = [];
