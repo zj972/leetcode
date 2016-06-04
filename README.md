@@ -87,6 +87,7 @@
 |318|Maximum Product of Word Lengths|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/318.%20Maximum%20Product%20of%20Word%20Lengths)|Medium|39.13%|276ms|
 |319|Bulb Switcher|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/319.%20Bulb%20Switcher)|Medium|23.91%|105ms|
 |326|Power of Three|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/326.%20Power%20of%20Three)|Easy|26.01%,23.77%|1252ms,1260ms|
+|328|Odd Even Linked List|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/328.%20Odd%20Even%20Linked%20List)|Medium|18.75%|162ms|
 |338|Counting Bits|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/338.%20Counting%20Bits)|Medium|86.11%,61.81%|284ms,300ms|
 |342|Power of Four|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/342.%20Power%20of%20Four)|Easy|2.65%|212ms|
 |343|Integer Break|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/343.%20Integer%20Break)|Medium|22.92%|108ms|
