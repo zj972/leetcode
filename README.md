@@ -66,6 +66,7 @@
 |223|Rectangle Area|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/223.%20Rectangle%20Area)|Easy|23.40%|336ms|
 |225|Implement Stack using Queues|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/225.%20Implement%20Stack%20using%20Queues)|Easy|13.95%|104ms|
 |226|Invert Binary Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/226.%20Invert%20Binary%20Tree)|Easy|52.68%|112ms|
+|230|Kth Smallest Element in a BST|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/230.%20Kth%20Smallest%20Element%20in%20a%20BST)|Medium|7.69%,5.77%|176ms,192ms|
 |231|Power of Two|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/231.%20Power%20of%20Two)|Easy|11.98%,11.98%|192ms,192ms|
 |232|Implement Queue using Stacks|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/232.%20Implement%20Queue%20using%20Stacks)|Easy|46.77%|96ms|
 |234|Palindrome Linked List|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/234.%20Palindrome%20Linked%20List)|Easy|62.69%|112ms|
