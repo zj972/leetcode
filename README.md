@@ -27,8 +27,8 @@
 |070|Climbing Stairs|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/070.%20Climbing%20Stairs)|Easy|52.82%|96ms|
 |083|Remove Duplicates from Sorted List|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/083.%20Remove%20Duplicates%20from%20Sorted%20List)|Easy|86.03%|136ms|
 |088|Merge Sorted Array|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/088.%20Merge%20Sorted%20Array)|Easy|86.67%|100ms|
-|94|Binary Tree Inorder Traversal|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/094.%20Binary%20Tree%20Inorder%20Traversal)|Medium|89.04%,47.95%|100ms,112ms|
-|96|Unique Binary Search Trees|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/096.%20Unique%20Binary%20Search%20Trees)|Medium|38.18%|96ms|
+|094|Binary Tree Inorder Traversal|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/094.%20Binary%20Tree%20Inorder%20Traversal)|Medium|89.04%,47.95%|100ms,112ms|
+|096|Unique Binary Search Trees|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/096.%20Unique%20Binary%20Search%20Trees)|Medium|38.18%|96ms|
 |100|Same Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/100.%20Same%20Tree)|Easy|35.38%|108ms|
 |101|Symmetric Tree|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/101.%20Symmetric%20Tree)|Easy|47.13%,16.09%|132ms,144ms|
 |102|Binary Tree Level Order Traversal|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/102.%20Binary%20Tree%20Level%20Order%20Traversal)|Easy|50.51%|120ms|
