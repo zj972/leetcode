@@ -7,7 +7,7 @@ Design an algorithm to find the maximum profit. You may complete as many transac
 
 * After you sell your stock, you cannot buy stock on next day. (ie, cooldown 1 day)
 
-#####Example:
+##### Example:
 ```
 prices = [1, 2, 3, 0, 2]
 maxProfit = 3
