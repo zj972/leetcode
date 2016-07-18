@@ -2,7 +2,7 @@
  * @param {number} n
  * @return {number}
  */
-//Distribution 88.89%,runtime 92ms
+//Distribution 99.21%,runtime 84ms
 var countNumbersWithUniqueDigits = function(n) {
     if (n < 0) return 0;  
     if (n === 0) return 1;  
