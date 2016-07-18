@@ -22,6 +22,7 @@
 |036|Valid Sudoku|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/036.%20Valid%20Sudoku)|Easy|58.11%|172ms|
 |038|Count and Say|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/038.%20Count%20and%20Say)|Easy|60.27%|96ms|
 |058|Length of Last Word|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/058.%20Length%20of%20Last%20Word)|Easy|77.08%|92ms|
+|062|Unique Paths|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/062.%20Unique%20Paths)|Medium|89.58%|96ms|
 |066|Plus One|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/066.%20Plus%20One)|Easy|29.03%|120ms|
 |067|Add Binary|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/067.%20Add%20Binary)|Easy|75.79%|128ms|
 |070|Climbing Stairs|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/070.%20Climbing%20Stairs)|Easy|52.82%|96ms|
