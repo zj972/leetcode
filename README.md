@@ -100,4 +100,5 @@
 |347|Top K Frequent Elements|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/347.%20Top%20K%20Frequent%20Elements)|Medium|44.96%|168ms|
 |349|Intersection of Two Arrays|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/349.%20Intersection%20of%20Two%20Arrays)|Easy|81.63%|112ms|
 |350|Intersection of Two Arrays II|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/350.%20Intersection%20of%20Two%20Arrays%20II)|Easy|24.86%|136ms|
+|357|Count Numbers with Unique Digits|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/357.%20Count%20Numbers%20with%20Unique%20Digits)|Medium|88.89%|92ms|
 |371|Sum of Two Integers|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/371.%20Sum%20of%20Two%20Integers)|Easy|38.99%|104ms|
