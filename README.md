@@ -5,24 +5,24 @@
 | No | Title | Source Code | Difficulty |
 |----| ----- | -------- | ---------- |
 |001|Two Sum|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/001.%20Two%20Sum)|Easy|
-|002|Add Two Numbers|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/002.%20Add%20Two%20Numbers)|Medium|
-|003|Longest Substring Without Repeating Characters|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/003.%20Longest%20Substring%20Without%20Repeating%20Characters)|Medium|
-|004|Median of Two Sorted Arrays|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/004.%20Median%20of%20Two%20Sorted%20Arrays)|Hard|
-|005|Longest Palindromic Substring|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/005.%20Longest%20Palindromic%20Substring)|Medium|
+|002|Add Two Numbers|[Golang](https://github.com/zj972/leetcode/tree/master/code/002.%20Add%20Two%20Numbers)|Medium|
+|003|Longest Substring Without Repeating Characters|[Golang](https://github.com/zj972/leetcode/tree/master/code/003.%20Longest%20Substring%20Without%20Repeating%20Characters)|Medium|
+|004|Median of Two Sorted Arrays|[Golang](https://github.com/zj972/leetcode/tree/master/code/004.%20Median%20of%20Two%20Sorted%20Arrays)|Hard|
+|005|Longest Palindromic Substring|[Golang](https://github.com/zj972/leetcode/tree/master/code/005.%20Longest%20Palindromic%20Substring)|Medium|
 |006|ZigZag Conversion|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/006.%20ZigZag%20Conversion)|Medium|
 |007|Reverse Integer|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/007.%20Reverse%20Integer)|Easy|
 |008|String to Integer (atoi)|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/008.%20String%20to%20Integer%20(atoi))|Medium|
 |009|Palindrome Number|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/009.%20Palindrome%20Number)|Easy|
-|010|Regular Expression Matching|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/010.%20Regular%20Expression%20Matching)|Hard|
-|011|Container With Most Water|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/011.%20Container%20With%20Most%20Water)|Medium|
+|010|Regular Expression Matching|[Golang](https://github.com/zj972/leetcode/tree/master/code/010.%20Regular%20Expression%20Matching)|Hard|
+|011|Container With Most Water|[Golang](https://github.com/zj972/leetcode/tree/master/code/011.%20Container%20With%20Most%20Water)|Medium|
 |012|Integer to Roman|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/012.%20Integer%20to%20Roman)|Medium|
 |013|Roman to Integer|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/013.%20Roman%20to%20Integer)|Easy|
 |014|Longest Common Prefix|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/014.%20Longest%20Common%20Prefix)|Easy|
-|015|3Sum|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/015.%203Sum)|Medium|
+|015|3Sum|[Golang](https://github.com/zj972/leetcode/tree/master/code/015.%203Sum)|Medium|
 |016|3Sum Closest|[Golang](https://github.com/zj972/leetcode/tree/master/code/016.%203Sum%20Closest)|Medium|
 |017|Letter Combinations of a Phone Number|[Golang](https://github.com/zj972/leetcode/tree/master/code/017.%20Letter%20Combinations%20of%20a%20Phone%20Number)|Medium|
-|018|4Sum|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/018.%204Sum)|Medium|
-|019|Remove Nth Node From End of List|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/019.%20Remove%20Nth%20Node%20From%20End%20of%20List)|Easy|
+|018|4Sum|[Golang](https://github.com/zj972/leetcode/tree/master/code/018.%204Sum)|Medium|
+|019|Remove Nth Node From End of List|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/019.%20Remove%20Nth%20Node%20From%20End%20of%20List)|Easy|
 |020|Valid Parentheses|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/020.%20Valid%20Parentheses)|Easy|
 |021|Merge Two Sorted Lists|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/021.%20Merge%20Two%20Sorted%20Lists)|Easy|
 |024|Swap Nodes in Pairs|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/024.%20Swap%20Nodes%20in%20Pairs)|Easy|
