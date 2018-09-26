@@ -23,8 +23,8 @@
 |017|Letter Combinations of a Phone Number|[Golang](https://github.com/zj972/leetcode/tree/master/code/017.%20Letter%20Combinations%20of%20a%20Phone%20Number)|Medium|
 |018|4Sum|[Golang](https://github.com/zj972/leetcode/tree/master/code/018.%204Sum)|Medium|
 |019|Remove Nth Node From End of List|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/019.%20Remove%20Nth%20Node%20From%20End%20of%20List)|Easy|
-|020|Valid Parentheses|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/020.%20Valid%20Parentheses)|Easy|
-|021|Merge Two Sorted Lists|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/021.%20Merge%20Two%20Sorted%20Lists)|Easy|
+|020|Valid Parentheses|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/020.%20Valid%20Parentheses)|Easy|
+|021|Merge Two Sorted Lists|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/021.%20Merge%20Two%20Sorted%20Lists)|Easy|
 |024|Swap Nodes in Pairs|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/024.%20Swap%20Nodes%20in%20Pairs)|Easy|
 |026|Remove Duplicates from Sorted Array|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/026.%20Remove%20Duplicates%20from%20Sorted%20Array)|Easy|
 |027|Remove Element|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/027.%20Remove%20Element)|Easy|
