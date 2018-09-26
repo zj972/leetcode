@@ -1,19 +1,22 @@
 # 7. Reverse Integer
-Reverse digits of an integer.
 
-Example1: x = 123, return 321
-Example2: x = -123, return -321
+Given a 32-bit signed integer, reverse digits of an integer.
 
-Have you thought about this?
+##### Example 1:
 
-Here are some good questions to ask before coding. Bonus points for you if you have already thought through this!
+Input: 123
+Output: 321
 
-If the integer's last digit is 0, what should the output be? ie, cases such as 10, 100.
+##### Example 2:
 
-Did you notice that the reversed integer might overflow? Assume the input is a 32-bit integer, then the reverse of 1000000003 overflows. How should you handle such cases?
+Input: -123
+Output: -321
 
-For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
+##### Example 3:
 
-##### Update (2014-11-10):
+Input: 120
+Output: 21
 
-Test cases had been added to test the overflow behavior.
+##### Note:
+
+Assume we are dealing with an environment which could only store integers within the 32-bit signed integer range: [−2^31,  2^31 − 1]. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
