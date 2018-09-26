@@ -1,5 +1,5 @@
 # LeetCode
-### My JavaScript Solution of leetcode.
+### My JavaScript Solution of [leetcode](https://leetcode.com/problemset/all/).
 
 
 | No | Title | Source Code | Difficulty |
