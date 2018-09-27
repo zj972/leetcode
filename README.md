@@ -28,6 +28,7 @@
 |022|Generate Parentheses|[Golang](https://github.com/zj972/leetcode/tree/master/code/022.%20Generate%20Parentheses)|Medium|
 |023|Merge k Sorted Lists|[Golang](https://github.com/zj972/leetcode/tree/master/code/023.%20Merge%20k%20Sorted%20Lists)|Hard|
 |024|Swap Nodes in Pairs|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/024.%20Swap%20Nodes%20in%20Pairs)|Easy|
+|025|Reverse Nodes in k-Group|[Golang](https://github.com/zj972/leetcode/tree/master/code/025.%20Reverse%20Nodes%20in%20k-Group)|Hard|
 |026|Remove Duplicates from Sorted Array|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/026.%20Remove%20Duplicates%20from%20Sorted%20Array)|Easy|
 |027|Remove Element|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/027.%20Remove%20Element)|Easy|
 |028|Implement strStr()|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/028.%20Implement%20strStr())|Easy|
