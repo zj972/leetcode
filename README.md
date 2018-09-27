@@ -26,7 +26,8 @@
 |020|Valid Parentheses|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/020.%20Valid%20Parentheses)|Easy|
 |021|Merge Two Sorted Lists|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/021.%20Merge%20Two%20Sorted%20Lists)|Easy|
 |022|Generate Parentheses|[Golang](https://github.com/zj972/leetcode/tree/master/code/022.%20Generate%20Parentheses)|Medium|
-|024|Swap Nodes in Pairs|[JavaScript ](https://github.com/zj972/leetcode/tree/master/code/024.%20Swap%20Nodes%20in%20Pairs)|Easy|
+|023|Merge k Sorted Lists|[Golang](https://github.com/zj972/leetcode/tree/master/code/023.%20Merge%20k%20Sorted%20Lists)|Hard|
+|024|Swap Nodes in Pairs|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/024.%20Swap%20Nodes%20in%20Pairs)|Easy|
 |026|Remove Duplicates from Sorted Array|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/026.%20Remove%20Duplicates%20from%20Sorted%20Array)|Easy|
 |027|Remove Element|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/027.%20Remove%20Element)|Easy|
 |028|Implement strStr()|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/028.%20Implement%20strStr())|Easy|

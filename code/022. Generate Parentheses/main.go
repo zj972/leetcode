@@ -46,6 +46,7 @@ import (
 //	return o
 //}
 
+//存在冗余数据（长度小于max*2的数据）
 //Runtime: 8 ms, faster than 100.00% of Go online submissions for Generate Parentheses.
 func generateParenthesis(n int) []string {
 	ret := make([]string, 0)
