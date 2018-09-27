@@ -97,8 +97,7 @@ func main() {
 	three := &ListNode{Val: 3, Next: four}
 	two := &ListNode{Val: 2, Next: three}
 	one := &ListNode{Val: 1, Next: two}
-	_ = one
-	node := reverseKGroup(nil, 2)
+	node := reverseKGroup(one, 2)
 	fmt.Println(node)
 	for {
 		fmt.Printf("%v ->", node.Val)

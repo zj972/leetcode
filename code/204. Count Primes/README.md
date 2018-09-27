@@ -5,7 +5,7 @@ Count the number of prime numbers less than a non-negative number, `n`.
 
 ##### Hint:
 
-* 1.Let's start with a isPrime function. To determine if a number is prime, we need to check if it is not divisible by any number less than n. The runtime complexity of isPrime function would be O(n) and hence counting the total prime numbers up to n would be O(n^2). Could we do better?
+* 1.Let's start with a isPrime function. To determine if a number is prime, we need to check if it is not divisible by any number less than n. The runtime complexity of isPrime function would be O(n) and hence counting the total prime numbers up to n would be O(n<sup>2</sup>). Could we do better?
 
 * 2.As we know the number must not be divisible by any number > n / 2, we can immediately cut the total iterations half by dividing only up to n / 2. Could we still do better?
 
@@ -18,7 +18,7 @@ Count the number of prime numbers less than a non-negative number, `n`.
 ```
 As you can see, calculations of 4 × 3 and 6 × 2 are not necessary. Therefore, we only need to consider factors up to √n because, if n is divisible by some number p, then n = p × q and since p ≤ q, we could derive that p ≤ √n.
 
-Our total runtime has now improved to O(n^1.5), which is slightly better. Is there a faster approach?
+Our total runtime has now improved to O(n<sup>1.5</sup>), which is slightly better. Is there a faster approach?
 ```java
 public int countPrimes(int n) {
    int count = 0;
@@ -48,7 +48,7 @@ We start off with a table of n numbers. Let's look at the first number, 2. We kn
 
 * 5.4 is not a prime because it is divisible by 2, which means all multiples of 4 must also be divisible by 2 and were already marked off. So we can skip 4 immediately and go to the next number, 5. Now, all multiples of 5 such as 5 × 2 = 10, 5 × 3 = 15, 5 × 4 = 20, 5 × 5 = 25, ... can be marked off. There is a slight optimization here, we do not need to start from 5 × 2 = 10. Where should we start marking off?
 
-* 6.In fact, we can mark off multiples of 5 starting at 5 × 5 = 25, because 5 × 2 = 10 was already marked off by multiple of 2, similarly 5 × 3 = 15 was already marked off by multiple of 3. Therefore, if the current number is p, we can always mark off multiples of p starting at p^2, then in increments of p: p^2 + p, p^2 + 2p, ... Now what should be the terminating loop condition?
+* 6.In fact, we can mark off multiples of 5 starting at 5 × 5 = 25, because 5 × 2 = 10 was already marked off by multiple of 2, similarly 5 × 3 = 15 was already marked off by multiple of 3. Therefore, if the current number is p, we can always mark off multiples of p starting at p<sup>2</sup>, then in increments of p: p<sup>2</sup> + p, p<sup>2</sup> + 2p, ... Now what should be the terminating loop condition?
 
 * 7.It is easy to say that the terminating loop condition is p < n, which is certainly correct but not efficient. Do you still remember Hint #3?
 
