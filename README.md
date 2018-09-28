@@ -1,5 +1,5 @@
 # LeetCode
-### My JavaScript Solution of [leetcode](https://leetcode.com/problemset/all/).
+### My JavaScript&Golang Solution of [leetcode](https://leetcode.com/problemset/all/).
 
 
 | No | Title | Source Code | Difficulty |
@@ -34,6 +34,8 @@
 |028|Implement strStr()|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/028.%20Implement%20strStr())|Easy|
 |029|Divide Two Integers|[Golang](https://github.com/zj972/leetcode/tree/master/code/029.%20Divide%20Two%20Integers)|Medium|
 |030|Substring with Concatenation of All Words|[Golang](https://github.com/zj972/leetcode/tree/master/code/030.%20Substring%20with%20Concatenation%20of%20All%20Words)|Hard|
+|031|Next Permutation|[Golang](https://github.com/zj972/leetcode/tree/master/code/031.%20Next%20Permutation)|Medium|
+|032|Longest Valid Parentheses|[Golang](https://github.com/zj972/leetcode/tree/master/code/032.%20Longest%20Valid%20Parentheses)|Hard|
 |036|Valid Sudoku|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/036.%20Valid%20Sudoku)|Easy|
 |038|Count and Say|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/038.%20Count%20and%20Say)|Easy|
 |058|Length of Last Word|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/058.%20Length%20of%20Last%20Word)|Easy|
