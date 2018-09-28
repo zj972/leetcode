@@ -36,6 +36,9 @@
 |030|Substring with Concatenation of All Words|[Golang](https://github.com/zj972/leetcode/tree/master/code/030.%20Substring%20with%20Concatenation%20of%20All%20Words)|Hard|
 |031|Next Permutation|[Golang](https://github.com/zj972/leetcode/tree/master/code/031.%20Next%20Permutation)|Medium|
 |032|Longest Valid Parentheses|[Golang](https://github.com/zj972/leetcode/tree/master/code/032.%20Longest%20Valid%20Parentheses)|Hard|
+|033|Search in Rotated Sorted Array|[Golang](https://github.com/zj972/leetcode/tree/master/code/033.%20Search%20in%20Rotated%20Sorted%20Array)|Medium|
+|034|Find First and Last Position of Element in Sorted Array|[Golang](https://github.com/zj972/leetcode/tree/master/code/034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)|Medium|
+|035|Search Insert Position|[Golang](https://github.com/zj972/leetcode/tree/master/code/035.%20Search%20Insert%20Position)|Easy|
 |036|Valid Sudoku|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/036.%20Valid%20Sudoku)|Easy|
 |038|Count and Say|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/038.%20Count%20and%20Say)|Easy|
 |058|Length of Last Word|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/058.%20Length%20of%20Last%20Word)|Easy|
