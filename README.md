@@ -39,7 +39,7 @@
 |033|Search in Rotated Sorted Array|[Golang](https://github.com/zj972/leetcode/tree/master/code/033.%20Search%20in%20Rotated%20Sorted%20Array)|Medium|
 |034|Find First and Last Position of Element in Sorted Array|[Golang](https://github.com/zj972/leetcode/tree/master/code/034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)|Medium|
 |035|Search Insert Position|[Golang](https://github.com/zj972/leetcode/tree/master/code/035.%20Search%20Insert%20Position)|Easy|
-|036|Valid Sudoku|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/036.%20Valid%20Sudoku)|Easy|
+|036|Valid Sudoku|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/036.%20Valid%20Sudoku)|Easy|
 |038|Count and Say|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/038.%20Count%20and%20Say)|Easy|
 |058|Length of Last Word|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/058.%20Length%20of%20Last%20Word)|Easy|
 |062|Unique Paths|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/062.%20Unique%20Paths)|Medium|

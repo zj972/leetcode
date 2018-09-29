@@ -17,12 +17,15 @@ string convert(string s, int numRows);
 ##### Example 1:
 
 Input: s = "PAYPALISHIRING", numRows = 3
+
 Output: "PAHNAPLSIIGYIR"
 
 ##### Example 2:
 
 Input: s = "PAYPALISHIRING", numRows = 4
+
 Output: "PINALSIGYAHRPI"
+
 Explanation:
 
 ```text
