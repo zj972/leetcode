@@ -40,7 +40,10 @@
 |034|Find First and Last Position of Element in Sorted Array|[Golang](https://github.com/zj972/leetcode/tree/master/code/034.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array)|Medium|
 |035|Search Insert Position|[Golang](https://github.com/zj972/leetcode/tree/master/code/035.%20Search%20Insert%20Position)|Easy|
 |036|Valid Sudoku|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/036.%20Valid%20Sudoku)|Easy|
-|038|Count and Say|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/038.%20Count%20and%20Say)|Easy|
+|037|Sudoku Solver|[Golang](https://github.com/zj972/leetcode/tree/master/code/037.%20Sudoku%20Solver)|Hard|
+|038|Count and Say|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/038.%20Count%20and%20Say)|Easy|
+|039|Combination Sum|[Golang](https://github.com/zj972/leetcode/tree/master/code/039.%20Combination%20Sum)|Medium|
+|040|Combination Sum II|[Golang](https://github.com/zj972/leetcode/tree/master/code/040.%20Combination%20Sum%20II)|Medium|
 |058|Length of Last Word|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/058.%20Length%20of%20Last%20Word)|Easy|
 |062|Unique Paths|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/062.%20Unique%20Paths)|Medium|
 |066|Plus One|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/066.%20Plus%20One)|Easy|
