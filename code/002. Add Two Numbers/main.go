@@ -62,7 +62,7 @@ func main() {
 	}
 }
 
-// wrong answer by 刘乾
+// wrong answer by Leo
 //func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 //	out := new(ListNode)
 //	out.Val = 0

@@ -44,6 +44,11 @@
 |038|Count and Say|[JavaScript & Golang](https://github.com/zj972/leetcode/tree/master/code/038.%20Count%20and%20Say)|Easy|
 |039|Combination Sum|[Golang](https://github.com/zj972/leetcode/tree/master/code/039.%20Combination%20Sum)|Medium|
 |040|Combination Sum II|[Golang](https://github.com/zj972/leetcode/tree/master/code/040.%20Combination%20Sum%20II)|Medium|
+|041|First Missing Positive|[Golang](https://github.com/zj972/leetcode/tree/master/code/041.%20First%20Missing%20Positive)|Hard|
+|042|Trapping Rain Water|[Golang](https://github.com/zj972/leetcode/tree/master/code/042.%20Trapping%20Rain%20Water)|Hard|
+|043|Multiply Strings|[Golang](https://github.com/zj972/leetcode/tree/master/code/043.%20Multiply%20Strings)|Medium|
+|044|Wildcard Matching|[Golang](https://github.com/zj972/leetcode/tree/master/code/044.%20Wildcard%20Matching)|Hard|
+|045|Jump Game II|[Golang](https://github.com/zj972/leetcode/tree/master/code/045.%20Jump%20Game%20II)|Hard|
 |058|Length of Last Word|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/058.%20Length%20of%20Last%20Word)|Easy|
 |062|Unique Paths|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/062.%20Unique%20Paths)|Medium|
 |066|Plus One|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/066.%20Plus%20One)|Easy|
