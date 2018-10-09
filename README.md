@@ -53,6 +53,7 @@
 |047|Permutations II|[Golang](https://github.com/zj972/leetcode/tree/master/code/047.%20Permutations%20II)|Medium|
 |048|Rotate Image|[Golang](https://github.com/zj972/leetcode/tree/master/code/048.%20Rotate%20Image)|Medium|
 |049|Group Anagrams|[Golang](https://github.com/zj972/leetcode/tree/master/code/049.%20Group%20Anagrams)|Medium|
+|050|Pow(x, n)|[Golang](https://github.com/zj972/leetcode/tree/master/code/050.%20Pow(x%2C%20n))|Medium|
 |058|Length of Last Word|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/058.%20Length%20of%20Last%20Word)|Easy|
 |062|Unique Paths|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/062.%20Unique%20Paths)|Medium|
 |066|Plus One|[JavaScript](https://github.com/zj972/leetcode/tree/master/code/066.%20Plus%20One)|Easy|
